@@ -1,0 +1,6 @@
+
+Parameter File Name is: fuzzer.params
+
+Setting up Fitness Function.....Fuzzer with Genetic Algorithm
+
+1	0	1	0.07	0.2564323999762428

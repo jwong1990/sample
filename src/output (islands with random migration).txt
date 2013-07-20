@@ -1,0 +1,524 @@
+
+Parameter File Name is: fuzzer.params
+
+Setting up Fitness Function.....Fuzzer with Genetic Algorithm
+
+1	0	4	0.8533333333333334	0.7395801635273664
+1	1	3	1.2666666666666666	0.759921371277298
+1	2	5	1.6333333333333333	0.8130759685648985
+1	3	5	2.1233333333333335	0.8547265139217878
+1	4	5	2.49	0.9234405638244337
+1	5	5	2.8466666666666667	0.9658840487039277
+1	6	6	3.203333333333333	0.8705448773616199
+1	7	6	3.6033333333333335	0.8133432936137382
+1	8	6	3.9133333333333336	0.8173426774596315
+1	9	6	4.1	0.8865400031907895
+1	10	6	4.333333333333333	0.9514408483181623
+1	11	6	4.583333333333333	0.8788040418862874
+1	12	6	4.78	0.8167969090511117
+1	13	6	4.906666666666666	0.7916509709175735
+1	14	6	4.983333333333333	0.7990727625326924
+1	15	6	5.01	0.8075107297090972
+1	16	6	5.11	0.7614675146844625
+1	17	6	5.166666666666667	0.7443581928658484
+1	18	6	5.18	0.8425951312367914
+1	19	7	5.31	0.7675918996541821
+1	20	7	5.3966666666666665	0.7218442254681379
+1	21	7	5.283333333333333	0.8438577339453324
+1	22	7	5.333333333333333	0.8590783477546288
+1	23	7	5.556666666666667	0.8138365860857625
+1	24	7	5.73	0.8867851824800739
+1	25	7	5.86	0.8422775303467931
+1	26	7	5.983333333333333	0.8197329418018635
+1	27	7	6.1	0.8597269536210951
+1	28	7	6.1433333333333335	0.8113671246268885
+1	29	7	6.253333333333333	0.8070481053630696
+1	30	7	6.3	0.7737326459170891
+1	31	7	6.386666666666667	0.6870679954147934
+1	32	7	6.416666666666667	0.7104491646891977
+1	33	7	6.413333333333333	0.755684514755789
+1	34	7	6.37	0.7670688683745628
+1	35	7	6.306666666666667	0.7924954589124654
+1	36	7	6.34	0.7657378892611794
+1	37	7	6.4	0.7406044715484723
+1	38	7	6.37	0.7033840799162288
+1	39	7	6.44	0.726746541179975
+1	40	7	6.416666666666667	0.7426713661388159
+1	41	7	6.18	0.8060805705930566
+1	42	7	6.076666666666667	0.852375525032522
+1	43	7	6.123333333333333	0.8740722107780358
+1	44	7	6.16	0.8185148472593186
+1	45	7	6.196666666666666	0.8487580276619638
+1	46	7	6.293333333333333	0.7762931097183646
+1	47	7	6.366666666666666	0.7443581928658464
+1	48	7	6.37	0.753875161546874
+1	49	7	6.363333333333333	0.7209169807956785
+1	50	7	6.4366666666666665	0.6982938276887346
+1	51	8	6.433333333333334	0.735317069613581
+1	52	7	6.506666666666667	0.6413475223076173
+1	53	7	6.556666666666667	0.6543823625963239
+1	54	7	6.47	0.7331838299008593
+1	55	7	6.48	0.6815288734537722
+1	56	7	6.5	0.6769002732553078
+1	57	7	6.45	0.6650621717611762
+1	58	7	6.503333333333333	0.6915560145737996
+1	59	7	6.5	0.6568394987287998
+1	60	7	6.52	0.6766037556357972
+1	61	7	6.253333333333333	0.7817882482526239
+1	62	7	6.216666666666667	0.8156427727041018
+1	63	7	6.383333333333334	0.7735525195857172
+1	64	7	6.323333333333333	0.8005781077305839
+1	65	7	6.336666666666667	0.7950445743097372
+1	66	7	6.306666666666667	0.7967044719389879
+1	67	7	6.3533333333333335	0.7463325419002048
+1	68	7	6.446666666666666	0.7133384385985136
+1	69	7	6.513333333333334	0.6515909694949075
+1	70	7	6.486666666666666	0.6718084878669834
+1	71	7	6.523333333333333	0.6814225398494952
+1	72	7	6.43	0.6880003500038014
+1	73	7	6.523333333333333	0.6251064569313064
+1	74	7	6.476666666666667	0.6409562950227715
+1	75	7	6.476666666666667	0.6814225398494952
+1	76	7	6.45	0.6993786061802353
+1	77	7	6.5	0.6517278296034309
+1	78	7	6.483333333333333	0.6717338088275445
+1	79	7	6.503333333333333	0.6413735956415526
+1	80	7	6.46	0.7281258298400552
+1	81	7	6.323333333333333	0.833328874012596
+1	82	7	6.403333333333333	0.7848836623561914
+1	83	7	6.3966666666666665	0.7401452145927212
+1	84	7	6.343333333333334	0.7707804902192102
+1	85	7	6.343333333333334	0.7836896412066916
+1	86	7	6.403333333333333	0.7719944778310016
+1	87	7	6.3966666666666665	0.8050772552029032
+1	88	7	6.423333333333333	0.7205457488200835
+1	89	7	6.36	0.7783010396762982
+1	90	7	6.406666666666666	0.6803173238221504
+1	91	7	6.443333333333333	0.7036376259014082
+1	92	7	6.476666666666667	0.7102608373542434
+1	93	7	6.463333333333333	0.7002070087284636
+1	94	7	6.493333333333333	0.6817905470566004
+1	95	7	6.426666666666667	0.7570994347304197
+1	96	7	6.51	0.7291585841246563
+1	97	7	6.49	0.6914915293169213
+1	98	7	6.523333333333333	0.6814225398494952
+1	99	8	6.593333333333334	0.6185176655230669
+1	100	7	6.5633333333333335	0.6982938276887346
+1	101	7	6.3533333333333335	0.7940975119070369
+1	102	7	6.39	0.75706262139207
+1	103	7	6.41	0.755293471059262
+1	104	7	6.44	0.7128068781128238
+1	105	7	6.373333333333333	0.8182423994778274
+1	106	7	6.44	0.726746541179975
+1	107	8	6.44	0.7174835250343051
+1	108	8	6.42	0.710833511405065
+1	109	8	6.446666666666666	0.7038989995452193
+1	110	8	6.496666666666667	0.6619032724114478
+1	111	8	6.473333333333334	0.7241340501806228
+1	112	8	6.53	0.6811607248736281
+1	113	8	6.543333333333333	0.763806404113922
+1	114	8	6.62	0.7376179685708106
+1	115	9	6.653333333333333	0.7494628325318817
+1	116	8	6.626666666666667	0.7719728162218581
+1	117	9	6.663333333333333	0.7823228141293364
+1	118	9	6.63	0.8177176819403262
+1	119	9	6.69	0.8463377726523025
+1	120	9	6.716666666666667	0.9013491683581266
+1	121	9	6.716666666666667	0.996510075206894
+1	122	9	6.843333333333334	1.011037194957493
+1	123	9	6.92	0.9678442064850911
+1	124	9	7.056666666666667	1.0313427080722823
+1	125	9	7.1433333333333335	1.0358727383172366
+1	126	9	7.26	0.9911312411198345
+1	127	9	7.33	1.0253150262285406
+1	128	9	7.286666666666667	1.0527026321146402
+1	129	9	7.403333333333333	0.9783555014305829
+1	130	9	7.55	1.0054200938997546
+1	131	9	7.48	1.0391661179694944
+1	132	9	7.466666666666667	1.0452419135052198
+1	133	9	7.4366666666666665	1.0816138485059337
+1	134	9	7.496666666666667	1.0393538426620685
+1	135	9	7.493333333333333	1.0296388084217944
+1	136	9	7.503333333333333	0.976302263263311
+1	137	9	7.48	1.0031388864050998
+1	138	9	7.53	0.9995483930088396
+1	139	9	7.57	1.0561652095353133
+1	140	9	7.526666666666666	1.042229836614741
+1	141	9	7.573333333333333	1.0431920826449919
+1	142	9	7.683333333333334	1.032768572966171
+1	143	9	7.78	0.9633414534072752
+1	144	9	7.796666666666667	0.9824491045506302
+1	145	9	7.8	1.0050042013922398
+1	146	9	7.93	0.942369460810829
+1	147	9	7.943333333333333	0.9325705594664144
+1	148	9	7.8966666666666665	0.9638909905661183
+1	149	9	8.0	0.928911327404614
+1	150	9	8.05	0.8926492830193258
+1	151	9	8.01	0.9198116718685894
+1	152	9	7.996666666666667	0.9555272523527779
+1	153	9	7.906666666666666	0.9597008080780368
+1	154	9	7.86	0.9182650501577057
+1	155	9	7.88	0.9842913346352938
+1	156	9	8.036666666666667	0.9263815799448397
+1	157	9	8.026666666666667	0.8917808770457223
+1	158	9	8.023333333333333	0.8436991860911823
+1	159	9	8.02	0.8216957748998699
+1	160	9	7.946666666666666	0.8943274722648954
+1	161	9	7.9366666666666665	0.891799628549197
+1	162	9	7.86	0.9362988403253768
+1	163	9	7.8933333333333335	1.012607262028372
+1	164	9	7.886666666666667	0.9505264632894781
+1	165	9	7.863333333333333	0.9205870358222363
+1	166	9	7.866666666666666	0.9927271762054344
+1	167	9	7.956666666666667	0.9332875446643689
+1	168	9	7.973333333333334	0.8992502761110738
+1	169	9	8.006666666666666	0.8770325969670119
+1	170	9	8.04	0.8799513516501378
+1	171	9	8.076666666666666	0.8562902538772562
+1	172	9	8.053333333333333	0.9128342914796908
+1	173	9	8.033333333333333	0.9064367863864574
+1	174	9	8.07	0.9316615861120311
+1	175	9	8.073333333333334	0.9077641072825323
+1	176	9	8.04	0.8761423503405152
+1	177	9	8.036666666666667	0.9007552881810804
+1	178	9	8.086666666666666	0.921222589326727
+1	179	9	8.07	0.902486346351659
+1	180	9	8.04	0.997522013403254
+1	181	9	7.99	0.9234405638244358
+1	182	9	8.01	0.8864834137249091
+1	183	9	7.956666666666667	0.988963625416468
+1	184	9	7.946666666666666	0.9662302478507718
+1	185	9	8.116666666666667	0.8711593525953066
+1	186	9	8.076666666666666	0.931134932810075
+1	187	9	8.106666666666667	0.8781758736756019
+1	188	9	8.14	0.9255207338371941
+1	189	9	8.146666666666667	0.8291242643343099
+1	190	9	8.133333333333333	0.8393871523482578
+1	191	9	8.156666666666666	0.8725403396807041
+1	192	9	8.156666666666666	0.8492307490346216
+1	193	9	8.176666666666666	0.8452833264031665
+1	194	9	8.133333333333333	0.8590783477546323
+1	195	9	8.123333333333333	0.896736309579702
+1	196	9	8.156666666666666	0.8952432203788714
+1	197	9	8.183333333333334	0.8595648480377538
+1	198	9	8.19	0.8773820895731078
+1	199	9	8.21	0.9103088527295893
+1	200	9	8.176666666666666	0.8570710539548685
+1	201	9	8.126666666666667	0.8561926038018027
+1	202	9	8.053333333333333	0.905476955686794
+1	203	9	8.026666666666667	0.9140059693069033
+1	204	9	8.06	0.919720766116223
+1	205	9	8.05	0.8775345518166832
+1	206	9	8.11	0.9021898294119209
+1	207	9	8.213333333333333	0.8584552250799792
+1	208	9	8.13	0.9430789963258845
+1	209	9	8.27	0.8119714643156369
+1	210	9	8.22	0.8874449438855867
+1	211	9	8.213333333333333	0.8545504141104932
+1	212	9	8.12	0.8915808364696199
+1	213	9	8.076666666666666	0.8869863046128698
+1	214	9	8.103333333333333	0.9321401036315364
+1	215	9	8.123333333333333	0.8816916445537033
+1	216	9	8.156666666666666	0.9137314921178126
+1	217	9	8.2	0.8921808236414738
+1	218	9	8.286666666666667	0.8287207909705476
+1	219	9	8.173333333333334	0.8674466946827022
+1	220	9	8.213333333333333	0.8347524149128912
+1	221	9	8.096666666666666	0.8812363363425978
+1	222	9	8.046666666666667	0.9132006022897168
+1	223	9	8.12	0.8878217302753774
+1	224	9	8.023333333333333	0.9552471999079577
+1	225	9	8.066666666666666	0.897165112834785
+1	226	9	8.036666666666667	0.9118261779628222
+1	227	9	8.023333333333333	0.9587419757905127
+1	228	9	7.986666666666666	0.9288153109355577
+1	229	9	7.963333333333333	0.9477956588449388
+1	230	9	8.066666666666666	0.9082797637952523
+1	231	9	8.093333333333334	0.8720610781182592
+1	232	9	8.116666666666667	0.843857733945336
+1	233	9	8.093333333333334	0.9456583887339166
+1	234	9	8.123333333333333	0.8740722107780393
+1	235	9	8.01	0.8557693247153404
+1	236	9	7.96	0.9024678168971559
+1	237	9	7.953333333333333	0.9132006022897168
+1	238	9	7.973333333333334	0.8455800223136836
+1	239	9	7.9366666666666665	0.9066765852956031
+1	240	9	8.026666666666667	0.9249182675030041
+1	241	9	8.073333333333334	0.9544591118584301
+1	242	9	8.113333333333333	0.8696800370125509
+1	243	9	8.023333333333333	0.9304162887960836
+1	244	9	8.02	1.0048045118446747
+1	245	9	8.006666666666666	0.9882024264665987
+1	246	9	8.12	0.8878217302753774
+1	247	9	8.08	0.8656970821985576
+1	248	9	8.07	0.9208292031667319
+1	249	9	8.12	0.876447679623295
+1	250	9	8.15	0.8385566513510483
+1	251	9	8.216666666666667	0.8398850587602181
+1	252	9	8.206666666666667	0.875505905667359
+1	253	9	8.25	0.8183718234834163
+1	254	9	8.296666666666667	0.835253084163262
+1	255	9	8.256666666666666	0.8203854764614344
+1	256	9	8.186666666666667	0.8371528965065553
+1	257	9	8.116666666666667	0.9588815018922463
+1	258	9	8.133333333333333	0.8745121270878057
+1	259	9	8.18	0.8775917183293513
+1	260	9	8.203333333333333	0.8705448773616226
+1	261	9	8.086666666666666	0.921222589326727
+1	262	9	8.02	0.946530365303446
+1	263	9	8.003333333333334	1.0033333518520562
+1	264	9	8.07	0.9135362581656371
+1	265	9	8.063333333333333	0.8651496026731847
+1	266	9	8.01	0.8902481710287703
+1	267	9	8.043333333333333	0.9224742551386134
+1	268	9	8.033333333333333	0.9210773586172974
+1	269	9	7.986666666666666	0.9069531975598866
+1	270	9	8.046666666666667	0.9021465792154812
+1	271	9	7.95	0.9436462406139015
+1	272	9	8.076666666666666	0.9129991495317566
+1	273	9	8.093333333333334	0.9059200808377644
+1	274	9	8.15	0.8660254037844386
+1	275	9	8.246666666666666	0.7796463194940095
+1	276	9	8.19	0.8222857448319534
+1	277	9	8.166666666666666	0.8648982902034681
+1	278	9	8.05	0.9075123113863115
+1	279	9	8.046666666666667	0.9420440784315351
+1	280	9	8.093333333333334	0.8565831373112427
+1	281	9	7.973333333333334	0.9176578202899782
+1	282	9	7.986666666666666	0.9142986541527377
+1	283	9	7.95	0.8963881445476723
+1	284	9	7.983333333333333	0.9160710540906213
+1	285	9	8.02	0.9214645896433343
+1	286	9	8.056666666666667	0.8884932694483808
+1	287	9	8.066666666666666	0.9479191551169779
+1	288	9	8.126666666666667	0.9238328380164633
+1	289	9	8.08	0.9433449345556721
+1	290	9	8.183333333333334	0.8358935032155429
+1	291	9	8.153333333333334	0.9051075190046493
+1	292	9	8.206666666666667	0.8161961422953966
+1	293	9	8.196666666666667	0.8125204739723829
+1	294	9	8.186666666666667	0.8950750919838236
+1	295	9	8.233333333333333	0.8610226995766025
+1	296	9	8.156666666666666	0.8914995571640123
+1	297	9	8.15	0.8305415890271113
+1	298	9	8.186666666666667	0.825080652116633
+1	299	9	8.096666666666666	0.974931035493683
+
+Solution 1 : address 93, and value 147 Trigger bug #6
+Solution 2 : address 61, and value 170 Doesn't trigger any bug
+Solution 3 : address 244, and value 200 Doesn't trigger any bug
+Solution 4 : address 764, and value 53 Doesn't trigger any bug
+Solution 5 : address 13, and value 134 Doesn't trigger any bug
+Solution 6 : address 444, and value 64 Doesn't trigger any bug
+Solution 7 : address 941, and value 123 Doesn't trigger any bug
+Solution 8 : address 658, and value 193 Doesn't trigger any bug
+Solution 9 : address 851, and value 56 Doesn't trigger any bug
+Solution 10 : address 445, and value 143 Doesn't trigger any bug
+Solution 11 : address 327, and value 16 Doesn't trigger any bug
+Solution 12 : address 498, and value 81 Doesn't trigger any bug
+Solution 13 : address 90, and value 206 Trigger bug #5
+Solution 14 : address 626, and value 195 Doesn't trigger any bug
+Solution 15 : address 853, and value 235 Doesn't trigger any bug
+Solution 16 : address 202, and value 206 Doesn't trigger any bug
+Solution 17 : address 974, and value 0 Doesn't trigger any bug
+Solution 18 : address 159, and value 160 Trigger bug #5
+Solution 19 : address 16, and value 23 Doesn't trigger any bug
+Solution 20 : address 170, and value 55 Doesn't trigger any bug
+Solution 21 : address 147, and value 21 Doesn't trigger any bug
+Solution 22 : address 202, and value 183 Doesn't trigger any bug
+Solution 23 : address 228, and value 23 Doesn't trigger any bug
+Solution 24 : address 118, and value 57 Doesn't trigger any bug
+Solution 25 : address 169, and value 64 Trigger bug #9
+Solution 26 : address 874, and value 90 Doesn't trigger any bug
+Solution 27 : address 193, and value 41 Doesn't trigger any bug
+Solution 28 : address 957, and value 12 Doesn't trigger any bug
+Solution 29 : address 318, and value 122 Doesn't trigger any bug
+Solution 30 : address 933, and value 127 Doesn't trigger any bug
+Solution 31 : address 687, and value 133 Doesn't trigger any bug
+Solution 32 : address 773, and value 66 Doesn't trigger any bug
+Solution 33 : address 18, and value 182 Doesn't trigger any bug
+Solution 34 : address 19, and value 113 Doesn't trigger any bug
+Solution 35 : address 415, and value 110 Doesn't trigger any bug
+Solution 36 : address 502, and value 126 Doesn't trigger any bug
+Solution 37 : address 385, and value 187 Doesn't trigger any bug
+Solution 38 : address 538, and value 188 Doesn't trigger any bug
+Solution 39 : address 91, and value 88 Doesn't trigger any bug
+Solution 40 : address 902, and value 227 Doesn't trigger any bug
+Solution 41 : address 164, and value 109 Doesn't trigger any bug
+Solution 42 : address 93, and value 202 Doesn't trigger any bug
+Solution 43 : address 907, and value 16 Doesn't trigger any bug
+Solution 44 : address 552, and value 36 Doesn't trigger any bug
+Solution 45 : address 722, and value 221 Doesn't trigger any bug
+Solution 46 : address 688, and value 206 Doesn't trigger any bug
+Solution 47 : address 165, and value 20 Trigger bug #8
+Solution 48 : address 909, and value 68 Doesn't trigger any bug
+Solution 49 : address 250, and value 144 Doesn't trigger any bug
+Solution 50 : address 394, and value 3 Trigger bug #5
+Solution 51 : address 951, and value 121 Doesn't trigger any bug
+Solution 52 : address 915, and value 160 Doesn't trigger any bug
+Solution 53 : address 887, and value 190 Doesn't trigger any bug
+Solution 54 : address 57, and value 10 Doesn't trigger any bug
+Solution 55 : address 34, and value 244 Doesn't trigger any bug
+Solution 56 : address 421, and value 120 Doesn't trigger any bug
+Solution 57 : address 78, and value 90 Doesn't trigger any bug
+Solution 58 : address 535, and value 107 Doesn't trigger any bug
+Solution 59 : address 497, and value 14 Doesn't trigger any bug
+Solution 60 : address 276, and value 188 Doesn't trigger any bug
+Solution 61 : address 523, and value 77 Doesn't trigger any bug
+Solution 62 : address 206, and value 22 Doesn't trigger any bug
+Solution 63 : address 180, and value 1 Trigger bug #10
+Solution 64 : address 138, and value 50 Doesn't trigger any bug
+Solution 65 : address 579, and value 219 Doesn't trigger any bug
+Solution 66 : address 883, and value 66 Doesn't trigger any bug
+Solution 67 : address 969, and value 156 Doesn't trigger any bug
+Solution 68 : address 899, and value 98 Doesn't trigger any bug
+Solution 69 : address 545, and value 184 Doesn't trigger any bug
+Solution 70 : address 462, and value 174 Doesn't trigger any bug
+Solution 71 : address 56, and value 192 Doesn't trigger any bug
+Solution 72 : address 241, and value 158 Doesn't trigger any bug
+Solution 73 : address 715, and value 119 Doesn't trigger any bug
+Solution 74 : address 70, and value 107 Doesn't trigger any bug
+Solution 75 : address 10, and value 170 Trigger bug #1
+Solution 76 : address 1002, and value 125 Doesn't trigger any bug
+Solution 77 : address 273, and value 70 Doesn't trigger any bug
+Solution 78 : address 414, and value 73 Doesn't trigger any bug
+Solution 79 : address 613, and value 170 Trigger bug #7
+Solution 80 : address 577, and value 236 Doesn't trigger any bug
+Solution 81 : address 386, and value 190 Doesn't trigger any bug
+Solution 82 : address 556, and value 229 Doesn't trigger any bug
+Solution 83 : address 987, and value 250 Doesn't trigger any bug
+Solution 84 : address 225, and value 249 Doesn't trigger any bug
+Solution 85 : address 180, and value 103 Doesn't trigger any bug
+Solution 86 : address 211, and value 244 Trigger bug #5
+Solution 87 : address 8, and value 9 Doesn't trigger any bug
+Solution 88 : address 13, and value 119 Trigger bug #2
+Solution 89 : address 692, and value 103 Doesn't trigger any bug
+Solution 90 : address 41, and value 75 Doesn't trigger any bug
+Solution 91 : address 385, and value 221 Doesn't trigger any bug
+Solution 92 : address 1016, and value 42 Doesn't trigger any bug
+Solution 93 : address 335, and value 86 Doesn't trigger any bug
+Solution 94 : address 202, and value 13 Doesn't trigger any bug
+Solution 95 : address 716, and value 214 Doesn't trigger any bug
+Solution 96 : address 0, and value 43 Doesn't trigger any bug
+Solution 97 : address 23, and value 59 Doesn't trigger any bug
+Solution 98 : address 965, and value 173 Doesn't trigger any bug
+Solution 99 : address 613, and value 131 Trigger bug #7
+Solution 100 : address 20, and value 22 Doesn't trigger any bug
+1	B	9
+
+In generation 1, below is the frequency
+Bug #1 frequency:81840
+Bug #2 frequency:77903
+Bug #3 frequency:6
+Bug #4 frequency:40302
+Bug #5 frequency:85305
+Bug #6 frequency:75892
+Bug #7 frequency:79808
+Bug #8 frequency:80899
+Bug #9 frequency:77187
+Bug #10 frequency:44946
+
+
+Solution 1 : address 93, and value 147 Trigger bug #6
+Solution 2 : address 61, and value 170 Doesn't trigger any bug
+Solution 3 : address 244, and value 200 Doesn't trigger any bug
+Solution 4 : address 764, and value 53 Doesn't trigger any bug
+Solution 5 : address 13, and value 134 Doesn't trigger any bug
+Solution 6 : address 444, and value 64 Doesn't trigger any bug
+Solution 7 : address 941, and value 123 Doesn't trigger any bug
+Solution 8 : address 658, and value 193 Doesn't trigger any bug
+Solution 9 : address 851, and value 56 Doesn't trigger any bug
+Solution 10 : address 445, and value 143 Doesn't trigger any bug
+Solution 11 : address 327, and value 16 Doesn't trigger any bug
+Solution 12 : address 498, and value 81 Doesn't trigger any bug
+Solution 13 : address 90, and value 206 Trigger bug #5
+Solution 14 : address 626, and value 195 Doesn't trigger any bug
+Solution 15 : address 853, and value 235 Doesn't trigger any bug
+Solution 16 : address 202, and value 206 Doesn't trigger any bug
+Solution 17 : address 974, and value 0 Doesn't trigger any bug
+Solution 18 : address 159, and value 160 Trigger bug #5
+Solution 19 : address 16, and value 23 Doesn't trigger any bug
+Solution 20 : address 170, and value 55 Doesn't trigger any bug
+Solution 21 : address 147, and value 21 Doesn't trigger any bug
+Solution 22 : address 202, and value 183 Doesn't trigger any bug
+Solution 23 : address 228, and value 23 Doesn't trigger any bug
+Solution 24 : address 118, and value 57 Doesn't trigger any bug
+Solution 25 : address 169, and value 64 Trigger bug #9
+Solution 26 : address 874, and value 90 Doesn't trigger any bug
+Solution 27 : address 193, and value 41 Doesn't trigger any bug
+Solution 28 : address 957, and value 12 Doesn't trigger any bug
+Solution 29 : address 318, and value 122 Doesn't trigger any bug
+Solution 30 : address 933, and value 127 Doesn't trigger any bug
+Solution 31 : address 687, and value 133 Doesn't trigger any bug
+Solution 32 : address 773, and value 66 Doesn't trigger any bug
+Solution 33 : address 18, and value 182 Doesn't trigger any bug
+Solution 34 : address 19, and value 113 Doesn't trigger any bug
+Solution 35 : address 415, and value 110 Doesn't trigger any bug
+Solution 36 : address 502, and value 126 Doesn't trigger any bug
+Solution 37 : address 385, and value 187 Doesn't trigger any bug
+Solution 38 : address 538, and value 188 Doesn't trigger any bug
+Solution 39 : address 91, and value 88 Doesn't trigger any bug
+Solution 40 : address 902, and value 227 Doesn't trigger any bug
+Solution 41 : address 164, and value 109 Doesn't trigger any bug
+Solution 42 : address 93, and value 202 Doesn't trigger any bug
+Solution 43 : address 907, and value 16 Doesn't trigger any bug
+Solution 44 : address 552, and value 36 Doesn't trigger any bug
+Solution 45 : address 722, and value 221 Doesn't trigger any bug
+Solution 46 : address 688, and value 206 Doesn't trigger any bug
+Solution 47 : address 165, and value 20 Trigger bug #8
+Solution 48 : address 909, and value 68 Doesn't trigger any bug
+Solution 49 : address 250, and value 144 Doesn't trigger any bug
+Solution 50 : address 394, and value 3 Trigger bug #5
+Solution 51 : address 951, and value 121 Doesn't trigger any bug
+Solution 52 : address 915, and value 160 Doesn't trigger any bug
+Solution 53 : address 887, and value 190 Doesn't trigger any bug
+Solution 54 : address 57, and value 10 Doesn't trigger any bug
+Solution 55 : address 34, and value 244 Doesn't trigger any bug
+Solution 56 : address 421, and value 120 Doesn't trigger any bug
+Solution 57 : address 78, and value 90 Doesn't trigger any bug
+Solution 58 : address 535, and value 107 Doesn't trigger any bug
+Solution 59 : address 497, and value 14 Doesn't trigger any bug
+Solution 60 : address 276, and value 188 Doesn't trigger any bug
+Solution 61 : address 523, and value 77 Doesn't trigger any bug
+Solution 62 : address 206, and value 22 Doesn't trigger any bug
+Solution 63 : address 180, and value 1 Trigger bug #10
+Solution 64 : address 138, and value 50 Doesn't trigger any bug
+Solution 65 : address 579, and value 219 Doesn't trigger any bug
+Solution 66 : address 883, and value 66 Doesn't trigger any bug
+Solution 67 : address 969, and value 156 Doesn't trigger any bug
+Solution 68 : address 899, and value 98 Doesn't trigger any bug
+Solution 69 : address 545, and value 184 Doesn't trigger any bug
+Solution 70 : address 462, and value 174 Doesn't trigger any bug
+Solution 71 : address 56, and value 192 Doesn't trigger any bug
+Solution 72 : address 241, and value 158 Doesn't trigger any bug
+Solution 73 : address 715, and value 119 Doesn't trigger any bug
+Solution 74 : address 70, and value 107 Doesn't trigger any bug
+Solution 75 : address 10, and value 170 Trigger bug #1
+Solution 76 : address 1002, and value 125 Doesn't trigger any bug
+Solution 77 : address 273, and value 70 Doesn't trigger any bug
+Solution 78 : address 414, and value 73 Doesn't trigger any bug
+Solution 79 : address 613, and value 170 Trigger bug #7
+Solution 80 : address 577, and value 236 Doesn't trigger any bug
+Solution 81 : address 386, and value 190 Doesn't trigger any bug
+Solution 82 : address 556, and value 229 Doesn't trigger any bug
+Solution 83 : address 987, and value 250 Doesn't trigger any bug
+Solution 84 : address 225, and value 249 Doesn't trigger any bug
+Solution 85 : address 180, and value 103 Doesn't trigger any bug
+Solution 86 : address 211, and value 244 Trigger bug #5
+Solution 87 : address 8, and value 9 Doesn't trigger any bug
+Solution 88 : address 13, and value 119 Trigger bug #2
+Solution 89 : address 692, and value 103 Doesn't trigger any bug
+Solution 90 : address 41, and value 75 Doesn't trigger any bug
+Solution 91 : address 385, and value 221 Doesn't trigger any bug
+Solution 92 : address 1016, and value 42 Doesn't trigger any bug
+Solution 93 : address 335, and value 86 Doesn't trigger any bug
+Solution 94 : address 202, and value 13 Doesn't trigger any bug
+Solution 95 : address 716, and value 214 Doesn't trigger any bug
+Solution 96 : address 0, and value 43 Doesn't trigger any bug
+Solution 97 : address 23, and value 59 Doesn't trigger any bug
+Solution 98 : address 965, and value 173 Doesn't trigger any bug
+Solution 99 : address 613, and value 131 Trigger bug #7
+Solution 100 : address 20, and value 22 Doesn't trigger any bug
+
+Start:  Sat Apr 06 16:45:02 EDT 2013
+End  :  Sat Apr 06 16:45:43 EDT 2013
